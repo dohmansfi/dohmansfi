@@ -200,7 +200,7 @@ article:last-child {
 .year {
     margin-top: 20px;
     padding-left: 5px;
-    border-left: 5px solid var(--black-carbon);
+    /* border-left: 1.5px solid var(--black-carbon); */
 }
 
 .bandcamp {
