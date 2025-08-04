@@ -82,11 +82,17 @@ h2 {
     font-size: 14px;
 }
 
+h4 {
+    padding-top: 2px;
+}
+
 .title{
+    font-style: italic;
+    display: inline-block;
     padding: 5px;
-    display: inline;
-    text-decoration: underline;
+    padding-top: 7px;
     border: 1.4px solid var(--black-carbon);
+
 }
 
 .container {
